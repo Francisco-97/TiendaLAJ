@@ -1,0 +1,4 @@
+2021-05-23T12:39:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\MAMP\htdocs\wordpress\wp-includes\class-requests.php en la línea 145
+
+2021-05-23T12:39:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\MAMP\htdocs\wordpress\wp-content\plugins\elementor-pro\plugin.php en la línea 139
+
